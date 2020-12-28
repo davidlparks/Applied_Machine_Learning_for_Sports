@@ -1,6 +1,6 @@
 The notebooks in this repository correspond to the exercises and projects in Applied Machine Learning for Health and Fitness by Kevin Ashley.
 
-Skills featured:
+Skills featured:  
 Projectile trajectory  
 Finding the best range and release angles
 
