@@ -9,8 +9,8 @@ Active contours segmentation (CH 3)
 
 Data manipulation techniques used:  
 Data generation (CH 2)  
-Standardization (CH 2)
-Reading an MRI (CH 3)
+Standardization (CH 2)  
+Reading an MRI (CH 3)  
 Compute the luminance of an RGB image (CH 3)
 
 Machine Learning models used:  
