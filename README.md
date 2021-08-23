@@ -16,7 +16,8 @@ Classifying objects (CH 06)
 Semantic segmentation (CH 06)  
 Human body keypoints detection (CH 06)  
 2D pose estimation (CH 07)  
-Dynamic Time Warping (CH 07)
+Dynamic Time Warping (CH 07)  
+Skill level comparison (CH 07)
 
 Data manipulation techniques used:  
 Data generation (CH 02)  
